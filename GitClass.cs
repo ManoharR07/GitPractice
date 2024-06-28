@@ -6,7 +6,7 @@ public class Class1
 	{
 		public void Get()
 		{
-			Console.WriteLine("Get dev1 dev2");
+			Console.WriteLine("Get dev1");
 		}
 	}
 }
